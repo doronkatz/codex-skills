@@ -1,3 +1,7 @@
 [submodule "unlazy"]
 	path = unlazy
 	url = https://github.com/Leonxlnx/unlazy.git
+
+[submodule "prd-write"]
+	path = prd-write
+	url = https://github.com/moirafe1094-Fe/prd-writing-skill.git
