@@ -1,0 +1,4 @@
+interface:
+  display_name: "MCP Doctor"
+  short_description: "Fix Codex tool startup"
+  default_prompt: "Diagnose this Codex MCP, connector, skill-loader, or config startup problem and apply the smallest safe fix."

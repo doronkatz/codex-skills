@@ -1,0 +1,1 @@
+/Users/doronkatz/.agents/skills/gstack/ETHOS.md

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Get API Docs"
+  short_description: "Fetch current third-party API docs with chub"
+  default_prompt: "Use $get-api-docs to find the right Context Hub document with chub, fetch the relevant API reference, and rely on it before writing code against an external service."
+
+policy:
+  allow_implicit_invocation: true

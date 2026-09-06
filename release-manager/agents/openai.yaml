@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release Manager"
+  short_description: "Coordinate ship readiness"
+  default_prompt: "Reconcile this branch, PR, tests, reviews, and release target, then report whether it is ready to ship or blocked."

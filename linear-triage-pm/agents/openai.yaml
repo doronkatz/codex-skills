@@ -1,0 +1,4 @@
+interface:
+  display_name: "Linear Triage PM"
+  short_description: "Triage Linear issues"
+  default_prompt: "Triage these Linear issues, clarify requirements, ensure child project inheritance, and move ready work to Backlog."

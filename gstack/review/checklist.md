@@ -1,0 +1,1 @@
+/Users/doronkatz/.agents/skills/gstack/review/checklist.md

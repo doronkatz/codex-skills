@@ -1,0 +1,12 @@
+interface:
+  display_name: "ASC UI Test Screenshots"
+  short_description: "Use AXe, not asc, to capture iOS UI-test screenshots for Linear"
+  default_prompt: "The installed asc CLI does not capture screenshots. Use the AXe-based screenshot workflow for iOS UI testing, attach the resulting screenshots to the relevant Linear issue, and add a concise evidence comment with pass/fail context."
+
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "linear"
+      description: "Linear MCP server"
+      transport: "streamable_http"
+      url: "https://mcp.linear.app/mcp"

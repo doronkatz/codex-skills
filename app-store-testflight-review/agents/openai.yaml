@@ -1,0 +1,4 @@
+interface:
+  display_name: "App Store TestFlight Review"
+  short_description: "Validate iOS release readiness"
+  default_prompt: "Review this iOS release for TestFlight or App Store readiness, including tests, metadata, screenshots, reviewer notes, and blockers."

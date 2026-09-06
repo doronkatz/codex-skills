@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mermaid Diagram Inserter"
+  short_description: "Create Mermaid diagrams from text or images"
+  default_prompt: "Use $insert-mermaid-diagrams to convert plain text or a diagram image into Mermaid, then insert it into Markdown or save it as a standalone .mmd/.mermaid file."
