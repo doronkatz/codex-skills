@@ -1,0 +1,3 @@
+[submodule "unlazy"]
+	path = unlazy
+	url = https://github.com/Leonxlnx/unlazy.git
